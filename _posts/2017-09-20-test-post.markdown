@@ -1,0 +1,6 @@
+---
+title: Test post
+date: 2017-09-20 18:35:00 Z
+---
+
+This is a test post for my blog
