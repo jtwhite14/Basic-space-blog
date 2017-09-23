@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 email: kaitlyn@basic-space.com
-description: A minimal, clean starting point using Jeykll + Tachyons
-baseurl: ""
-url: http://basic-space.com
-name: Basicspace
+description: Basicspace blog
+baseurl:
+url: blog.basic-space.com
+name:
 permalink: pretty
 port: 4040
 markdown: kramdown
