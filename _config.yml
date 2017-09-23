@@ -10,9 +10,9 @@ collections:
     output: true
 email: kaitlyn@basic-space.com
 description: Basicspace blog
-baseurl: ""
+baseurl: ''
 url: blog.basic-space.com
-name:
+name: 
 permalink: pretty
 port: 4040
 markdown: kramdown
