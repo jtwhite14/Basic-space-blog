@@ -2,17 +2,23 @@
 layout: default
 ---
 
-<div class="posts">
+<article class="cf mw8 center ph3 ph0-l pt4 pt5-l pb4">
+    <div class="fl-ns w-100 flex-m">
+      <h1 class="sans-serif f3 fw4 ttu tracked">Blog</h4>
+    </div>
+  </article>
+
+<div class="posts cf mw8 center ph3 ph0-l pb6">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    <article class="post fl w-100 w-50-m w-50-l pa2">
+        <div class="post-card ph3 ph4-ns pv3 pv4-ns bg-white h6 br-custom">
+          <div class="dt w-100 mt1">
+            <h6 class="sans-serif fw6 ttu tracked mv1 yellow">{{ post.type }}</h6>
+            <h6 class="sans-serif fw6 ttu tracked gray mv1">{{ post.date }}</h6>
+            <h1 class="sans-serif fw6 tracked mt5 blue"><a class="link dim dark-gray" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+            <h5 class="sans-serif fw4 pt2 tracked mt5 mb0"><a class="link dim dark-gray" href="{{ site.baseurl }}{{ post.url }}">Read more</a></h5>
+          </div>
+        </div>
     </article>
   {% endfor %}
 </div>
