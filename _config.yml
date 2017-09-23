@@ -1,5 +1,5 @@
 ---
-title: Jekyll + Tachyons Starter
+title: Basicspace blog
 timezone: UTC
 collections:
   posts:
@@ -8,14 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: ackernaut@gmail.com
-description: A minimal, clean starting point using Jeykll + Tachyons
-baseurl: "/jekyll-tachyons-starter"
-url: http://ackernaut.github.io
-name: Jekyll + Tachyons Starter
+email: kaitlyn@basic-space.com
+description: Basicspace blog
+baseurl: ""
+url: blog.basic-space.com
+name:
 permalink: pretty
-twitter_username: ackernaut
-github_username: ackernaut
 port: 4040
 markdown: kramdown
 exclude:
