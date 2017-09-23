@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Test post
 date: 2017-09-20 18:35:00 Z
 type: Project

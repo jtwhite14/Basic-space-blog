@@ -1406,7 +1406,13 @@ code, .code { font-family: Consolas, monaco, monospace; }
   STYLES
   Add custom styles here.
 */
-body { background-color: #F7F7F7; color: #102434; font-family: 'Crimson Text', georgia, times, serif; }
+body {
+  background-color: #F7F7F7;
+  color: #102434;
+  font-family: 'Crimson Text', georgia, times, serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
 textarea:focus, input:focus { outline: none; }
 .nav-header { z-index: 10; }
 .aspect-ratio { z-index: 9; }
