@@ -2,17 +2,10 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="home w-100 h-100">
+  <div class="home-content mw8 center pal h-100 tc sans-serif">
+    <h1>{{site.name}}</h1>
+    <p>{{site.description}}</p>
+    <p>Get started here: <a href="https://github.com/ackernaut/jekyll-tachyons-starter" title="{{site.name}}">https://github.com/ackernaut/jekyll-tachyons-starter</a></p>
+  </div>
 </div>
