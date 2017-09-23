@@ -1,5 +1,5 @@
 ---
-title: Basicspace blog
+title: Basicspace
 timezone: UTC
 collections:
   posts:
@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 email: kaitlyn@basic-space.com
-description: Basicspace blog
+description: A minimal, clean starting point using Jeykll + Tachyons
 baseurl: ""
-url: blog.basic-space.com
-name:
+url: http://basic-space.com
+name: Basicspace
 permalink: pretty
 port: 4040
 markdown: kramdown
