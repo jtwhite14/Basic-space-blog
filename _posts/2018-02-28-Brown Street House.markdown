@@ -8,3 +8,6 @@ categories:
 
 
 ![_MG_0473.jpg](/uploads/_MG_0473.jpg) ![_MG_0509.jpg](/uploads/_MG_0509.jpg)
+
+[OG 3.jp2](/uploads/OG%203.jp2)
+![OG 8.jpg](/uploads/OG%208.jpg)
