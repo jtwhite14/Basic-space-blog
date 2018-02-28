@@ -20,7 +20,7 @@ Let's start with the obvious in the master bedroom - that wallpaper. Some of it 
 
 ![MG0473.jpg](/uploads/MG0473.jpg)
 
-This project was completed back when I was starting my portfolio and would do anything to gain experience so I did all the handy work myself.  In the kitchen I disassembled the panty, painted the cabinets and reinstalled the bottom doors. In the master bedroom I re-painted the walls, put together new furniture, and hung the decor. The only thing I can't take credit for was removing the wallpaper. I hired a high-schooler from the local paint store to take off the old, melded-on wallpaper! Also, just a word for the wise, oil-based paint is not easy to work with. It is very thick, smelly, and takes a full week to completely dry. However, the end result is unparalleled.
+This project was completed back when I was starting my portfolio and would do anything to gain experience so I did all the handy work myself.  In the kitchen I disassembled the panty, painted the cabinets and reinstalled the bottom doors. A word for the wise, oil-based paint is not easy to work with. It is very thick, smelly, and takes a full week to completely dry. However, the end result is unparalleled. In the master bedroom I re-painted the walls, put together new furniture, and hung the decor. The only thing I can't take credit for was removing the wallpaper. I hired a high-schooler from the local paint store to take off the old, melded-on wallpaper! He came three nights after work from 5-9 pm and was covered in white dust each night he left. 
 
 Want to know more about this project? See more images [here](http://basic-space.com/posts/brown-street.html).
 
