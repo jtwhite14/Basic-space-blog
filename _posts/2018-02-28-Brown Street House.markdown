@@ -22,4 +22,8 @@ Let's start with the obvious in the master bedroom - that wallpaper. Some of it 
 
 This was back when I was starting my portfolio and would do anything to gain experience so I painted the cabinets, reinstalled the bottom doors, and also re-painted the master bedrooms. Don't worry, I hired a high-schooler to take off the old, melded-on wallpaper! Just a word for the wise, oil-based paint is not easy to work with. It is very thick, smelly, and takes a full week to completely dry. However, it's output is unparalleled.
 
+![DSCF1398.JPG](/uploads/DSCF1398.JPG)
+
+![MG0511.jpg](/uploads/MG0511.jpg)
+
 Want to know more about this project? See more images [here](http://basic-space.com/posts/brown-street.html).
