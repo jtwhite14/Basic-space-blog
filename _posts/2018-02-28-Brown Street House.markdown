@@ -14,6 +14,7 @@ Let's start with the obvious in the master bedroom - that wallpaper. Some of it 
 
 [DSCF1396.JPG](/uploads/DSCF1396.JPG) 
 ![_MG_0473.jpg](/uploads/_MG_0473.jpg)
+![Copy of DSCF3781.jpg](/uploads/Copy%20of%20DSCF3781.jpg)
 
 This was back when I was starting my portfolio and would do anything to gain experience so I painted the cabinets, reinstalled the bottom doors, and also re-painted the master bedrooms. Don't worry, I hired a high-schooler to take off the old, melded-on wallpaper! Just a word for the wise, oil-based paint is not easy to work with. It is very thick, smelly, and takes a full week to completely dry. However, it's output is unparalleled. 
 
