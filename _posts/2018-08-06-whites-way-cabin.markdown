@@ -14,11 +14,17 @@ Located in a costal community town, and tucked away from Jerusalem Road into pre
 The small square footage was also defined by furniture and the program separated by levels.
 
 
+
+
+
 ![before after 1-6e064b.jpg](/uploads/before%20after%201-6e064b.jpg)
+
 
 ![before after 2.jpg](/uploads/before%20after%202.jpg)
 
+
 ![before after 4.jpg](/uploads/before%20after%204.jpg)
+
 
 ![before after 3-c6e273.jpg](/uploads/before%20after%203-c6e273.jpg)
 
