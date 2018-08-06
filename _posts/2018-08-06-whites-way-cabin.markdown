@@ -8,3 +8,4 @@ Basicspace officially turned 2 this July and we are celebrating by looking back 
 
 Located in a costal community town, and pushed back into preservation land is this sweet little cabin perfect as a work/live retreat. With miles of walking paths surrounding the property, 
 
+![5.jpg](/uploads/5.jpg)
