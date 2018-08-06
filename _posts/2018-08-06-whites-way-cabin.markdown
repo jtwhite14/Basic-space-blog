@@ -1,6 +1,8 @@
 ---
 title: White's Way Cabin
 date: 2018-08-06 02:30:00 Z
+categories:
+- Before & After
 layout: post
 ---
 
