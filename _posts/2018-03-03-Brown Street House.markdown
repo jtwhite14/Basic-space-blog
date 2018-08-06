@@ -2,7 +2,7 @@
 title: Brown Street House
 date: 2018-03-03 21:22:00 Z
 categories:
-- Project
+- Before & After
 layout: post
 ---
 
