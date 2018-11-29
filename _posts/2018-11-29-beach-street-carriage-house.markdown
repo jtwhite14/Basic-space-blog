@@ -17,6 +17,8 @@ Because we didn't know the family who would occupy this space, we photographed i
 
 ![Before and after 1.jpg](/uploads/Before%20and%20after%201.jpg)
 
+![Before and after 5.jpg](/uploads/Before%20and%20after%205.jpg)
+
 ![Before and after 3.jpg](/uploads/Before%20and%20after%203.jpg)
 
 ![Before and after 2.jpg](/uploads/Before%20and%20after%202.jpg)
