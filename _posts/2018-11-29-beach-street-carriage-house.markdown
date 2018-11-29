@@ -3,6 +3,7 @@ title: Beach Street
 date: 2018-11-29 02:00:00 Z
 categories:
 - Before & After
+layout: post
 ---
 
 Our Beach Street Carriage House project was a fun one. At first glance, it's hard to see a welcoming, bright, clean space, but you can only go up from these "before" photos.
