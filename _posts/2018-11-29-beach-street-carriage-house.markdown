@@ -1,5 +1,5 @@
 ---
-title: Beach Street Carriage House
+title: Beach Street
 date: 2018-11-29 02:00:00 Z
 categories:
 - Before & After
